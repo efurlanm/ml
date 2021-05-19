@@ -24,6 +24,7 @@ Weka
 * [parf.ipynb](https://github.com/efurlanm/ml/blob/master/parf.ipynb) - compiling using Intel Fortran 2021.2
 * [parf-sd.ipynb](https://github.com/efurlanm/ml/blob/master/parf-sd.ipynb) - compiling on SDumont supercomputer
 * [usage.ipynb](https://github.com/efurlanm/ml/blob/master/usage.ipynb) - usage based on [Usage.md](https://github.com/efurlanm/ml/blob/master/docs/Usage.md)
+* [rfintro.ipynb](https://github.com/efurlanm/ml/blob/master/rfintro.ipynb) -  notebook based on "An Introduction To Building a Classification Model Using Random Forests In Python" from Sahiba Chopra, 2019
 
 
 
