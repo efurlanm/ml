@@ -48,9 +48,8 @@ Nominal / categorical, binary and continuous
 
 Table 1: Features and their descriptions
 
-|                               |                     |                                                                                                                                |
-| ----------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | **Attribute**                 | **Type**            | **Description**                                                                                                                |
+| ----------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | Age                           | Number              | Age in years                                                                                                                   |
 | Gender                        | String              | Male or Female                                                                                                                 |
 | Ethnicity                     | String              | List of common ethnicities in text format                                                                                      |
