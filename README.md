@@ -9,9 +9,9 @@
 
 PARF
 
-* [parf2008](https://github.com/efurlanm/ml/blob/master/parf2008/) and [parf2016](https://github.com/efurlanm/ml/blob/master/parf2016/) - contains the [source code forked from google code](https://code.google.com/archive/p/parf/source/default/source)
-* [sources](https://github.com/efurlanm/ml/blob/master/sources) - contains untouched downloads from google and www.irb.hr
-* [docs](https://github.com/efurlanm/ml/blob/master/docs/) - contains documentation, sourced from source code and elsewhere, converted from google wiki into github-flavored markup using pandoc, and also with some additional notes
+* [parf2008](parf2008/) and [parf2016](parf2016/) - contains the [source code forked from google code](https://code.google.com/archive/p/parf/source/default/source)
+* [sources](sources) - contains untouched downloads from google and www.irb.hr
+* [docs](docs/) - contains documentation, sourced from source code and elsewhere, converted from google wiki into github-flavored markup using pandoc, and also with some additional notes
 
 Weka
 
@@ -26,7 +26,9 @@ Weka
 * [usage.ipynb](usage.ipynb) - usage based on [Usage.md](docs/Usage.md)
 * [rfintro.ipynb](rfintro.ipynb) - Notebook based on *An Introduction To Building a Classification Model Using Random Forests In Python* from Sahiba Chopra, 2019
 * [rfiris.ipynb](rfiris.ipynb) - Notebook based on *Understanding Random Forests Classifiers in Python* by Avinash Navlani, 2018
-* [rfasteroid01.ipynb](rfasteroid01.ipynb)
+* [rfasteroid01.ipynb](rfasteroid01.ipynb) - Notebook based on *NASA: Asteroid Classification. Classifying whether an asteroid is hazardous or not* by Shubhankar Rawat, 2019
+* [ippsklearn.ipynb](ippsklearn.ipynb) - Notebook based on *Parallel machine learning with scikit-learn* from UL HPC Platform of the University of Luxembourg by the UL HPC Team
+
 
 
 ## PARF links
@@ -55,7 +57,7 @@ Weka
 
 ### Book
 
-[![](https://raw.githubusercontent.com/efurlanm/ml/master/img/witten2016.jpg)](https://www.google.com.br/books/edition/Data_Mining/1SylCgAAQBAJ)
+[![](img/witten2016.jpg)](https://www.google.com.br/books/edition/Data_Mining/1SylCgAAQBAJ)
 * Errata, Appendix, Slides, Review, additional information: https://www.cs.waikato.ac.nz/ml/weka/book.html
 
 
