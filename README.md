@@ -24,10 +24,10 @@ Weka
 * [parf.ipynb](parf.ipynb) - compiling using Intel Fortran 2021.2
 * [parf-sd.ipynb](parf-sd.ipynb) - compiling on SDumont supercomputer
 * [usage.ipynb](usage.ipynb) - usage based on [Usage.md](docs/Usage.md)
-* [rfintro.ipynb](rfintro.ipynb) - Notebook based on *An Introduction To Building a Classification Model Using Random Forests In Python* from Sahiba Chopra, 2019
-* [rfiris.ipynb](rfiris.ipynb) - Notebook based on *Understanding Random Forests Classifiers in Python* by Avinash Navlani, 2018
-* [rfasteroid01.ipynb](rfasteroid01.ipynb) - Notebook based on *NASA: Asteroid Classification. Classifying whether an asteroid is hazardous or not* by Shubhankar Rawat, 2019
-* [ippsklearn.ipynb](ippsklearn.ipynb) - Notebook based on *Parallel machine learning with scikit-learn* from UL HPC Platform of the University of Luxembourg by the UL HPC Team
+* [rfintro.ipynb](rfintro.ipynb) - based on *An Introduction To Building a Classification Model Using Random Forests In Python* from Sahiba Chopra, 2019
+* [rfiris.ipynb](rfiris.ipynb) - based on *Understanding Random Forests Classifiers in Python* by Avinash Navlani, 2018
+* [rfasteroid01.ipynb](rfasteroid01.ipynb) - based on *NASA: Asteroid Classification. Classifying whether an asteroid is hazardous or not* by Shubhankar Rawat, 2019
+* [ippsklearn.ipynb](ippsklearn.ipynb) - based on *Parallel machine learning with scikit-learn* from UL HPC Platform of the University of Luxembourg by the UL HPC Team
 
 
 

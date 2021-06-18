@@ -1,5 +1,5 @@
 # VEPPAR
-From: http://veppar.irb.hr/index.php?option=com_content&task=view&id=16&Itemid=44
+Source: http://veppar.irb.hr/index.php?option=com_content&task=view&id=16&Itemid=44
 
 # Parallel Random Forests – PARF
 *Written by Viktor Bojović\
@@ -14,4 +14,4 @@ The present application is command line based, MPI-enabled, and if **statically 
 *Last Updated ( Friday, 09 May 2008 )*
 
 ---
-<sup><span id="1">**1**</span></sup> According to the Makefile, the original code is compiled using Intel Fortran 8.0, so the library used is the Intel MPI library which is based on the MPICH specification.
+<sup><span id="1">**1**</span></sup> According to the Makefile, the original code is compiled using Intel Fortran 8.0. The Intel package brings the MPI library based on the MPICH specification.
