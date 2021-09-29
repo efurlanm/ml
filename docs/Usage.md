@@ -55,6 +55,8 @@ Determines the category of the class attribute that will be considered positive.
 
 Determines the number of trees to grow. Currently the default is the very low value of 10, which is good for testing, but does not give statistically good results. For serious analyses, significantly more should be used. More trees — more accuracy.
 
+> Note: the default value needs to be checked against the latest library versions.
+
     -m num
 
 Determines the number of attributes to choose randomly at each node. The best node split is determined only on this subset of attributes. Some experimentation is required for each dataset to determine the best value of this parameter. The default is usually "good enough", and is defined as the square root of the number of used attributes.

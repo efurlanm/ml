@@ -1,7 +1,7 @@
 # My personal notes on PARF, Weka, Machine Learning, and the like
 
-* **PARF** - Parallel random forest (RF) algorithm, MPI-enabled, implemented in Fortran, CLI. By Goran Topić and Tomislav Šmuc, from Ruđer Bošković Institute, Croatia
-* **Weka** - Machine learning tools and algorithms, including RF, implemented in Java, GUI. By Ian H. Witten, Eibe Frank, Mark A. Hall, Christopher J. Pal, from University of Waikato, New Zealand, and Université de Montréal, Canada
+* **PARF** - Parallel random forest (RF) algorithm, MPI-enabled, implemented in Fortran. By Goran Topić and Tomislav Šmuc, from Ruđer Bošković Institute, Croatia
+* **Weka** - Machine learning tools and algorithms, including RF, implemented in Java. By Ian H. Witten, Eibe Frank, Mark A. Hall, Christopher J. Pal, from University of Waikato, New Zealand, and Université de Montréal, Canada
 
 
 
@@ -26,21 +26,21 @@ Weka
 * [usage.ipynb](usage.ipynb) - usage based on [Usage.md](docs/Usage.md)
 * [rfintro.ipynb](rfintro.ipynb) - based on *An Introduction To Building a Classification Model Using Random Forests In Python* from Sahiba Chopra, 2019
 * [rfiris.ipynb](rfiris.ipynb) - based on *Understanding Random Forests Classifiers in Python* by Avinash Navlani, 2018
-* [rfasteroid01.ipynb](rfasteroid01.ipynb) - based on *NASA: Asteroid Classification. Classifying whether an asteroid is hazardous or not* by Shubhankar Rawat, 2019
-* [ippsklearn.ipynb](ippsklearn.ipynb) - based on *Parallel machine learning with scikit-learn* from UL HPC Platform of the University of Luxembourg by the UL HPC Team
 
 
 
 ## PARF links
 
+* https://epub.ub.uni-muenchen.de/13766/1/TR.pdf - A. Boulesteix et al. *Overview of Random Forest Methodology and Practical Guidance with Emphasis on Computational Biology and Bioinformatics*.
+* https://www.researchgate.net/publication/256089569 - G. Topic et al. *Reimplementation of the Random Forest Algorithm. Parallel Numerics, Theory and Applications*.
 * https://www.irb.hr/eng/Scientific-Support-Centres/Centre-for-Informatics-and-Computing/Projects2/IT-projects/PARF
 * http://veppar.irb.hr/index.php?option=com_content&task=view&id=16
 * https://translate.google.com/translate?sl=auto&tl=en&u=http://www.parf.irb.hr/
 * https://code.google.com/archive/p/parf/
-* https://link.springer.com/article/10.1186/1471-2156-12-63 - *S. Cabras et al. A strategy analysis for genetic association studies with known inbreeding*. Uses PARF with OpenMPI libraries
+* https://link.springer.com/article/10.1186/1471-2156-12-63 - S. Cabras et al. *A strategy analysis for genetic association studies with known inbreeding*. Uses PARF with OpenMPI libraries
 * https://epub.ub.uni-muenchen.de/13766/1/TR.pdf - *Overview of Random Forest Methodology and Practical Guidance with Emphasis on Computational Biology and Bioinformatics*. Mention PARF
 * https://www.researchgate.net/publication/24214253 - *Capturing the Spectrum of Interaction Effects in Genetic Association Studies by Simulated Evaporative Cooling Network Analysis*. Uses a parallel PARF
-* https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm
+* https://www.stat.berkeley.edu/~breiman/RandomForests/cc_home.htm - Leo Breiman and Adele Cutler. *Random Forests*. 
 
 
 
@@ -55,7 +55,7 @@ Weka
 
 
 
-### Book
+## Book
 
 [![](img/witten2016.jpg)](https://www.google.com.br/books/edition/Data_Mining/1SylCgAAQBAJ)
 * Errata, Appendix, Slides, Review, additional information: https://www.cs.waikato.ac.nz/ml/weka/book.html

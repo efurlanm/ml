@@ -26,7 +26,7 @@ Authors: Goran Topić and Tomislav Šmuc.
 
 
 
-# REFERENCES
+# References
 
 * https://waikato.github.io/weka-wiki/documentation/#general-documentation
 * https://www.cs.waikato.ac.nz/ml/weka/Witten_et_al_2016_appendix.pdf
