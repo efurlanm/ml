@@ -16,4 +16,4 @@ Some files in this repo were created and edited using [Weka](https://www.cs.waik
 Google Books info: https://www.google.com.br/books/edition/Data_Mining/1SylCgAAQBAJ  
 Errata, Appendix, Slides, Review, additional information: https://www.cs.waikato.ac.nz/ml/weka/book.html
 
-
+<br><sub>Last edited: 2023-06-27 11:12:06</sub>

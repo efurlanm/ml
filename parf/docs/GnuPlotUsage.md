@@ -51,3 +51,5 @@ And at the very end of the file (or, as the penultimate command if there is paus
     unset multiplot
 
 Then run gnuplot as already described. Admittedly, this could have been integrated into parf, but we feared the explosion of options, if we started allowing every tweak to gnuplot output possible, and decided to leave the (simple) procedures like this in the user's hands. Also, it should not be difficult to devise a Perl (or some other type of) script to do this processing instead of the user. Finally, if there are enough user requests for such a feature, we will try to add it in the future.
+
+<br><sub>Last edited: 2023-05-25 18:29:38</sub>

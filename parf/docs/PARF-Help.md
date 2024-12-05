@@ -54,3 +54,4 @@
     -g [file]     generate gnuplot graphics script
     -gt type      gnuplot graphics terminal type
     --verbose     print what is done
+<br><sub>Last edited: 2023-05-25 18:29:38</sub>

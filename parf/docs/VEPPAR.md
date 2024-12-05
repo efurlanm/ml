@@ -15,3 +15,4 @@ The present application is command line based, MPI-enabled, and if **statically 
 
 ---
 <span id="1"></span>[1] According to the Makefile, the original code is compiled using Intel Fortran 8.0. The Intel package brings the MPI library based on the MPICH specification.
+<br><sub>Last edited: 2023-05-25 18:29:38</sub>

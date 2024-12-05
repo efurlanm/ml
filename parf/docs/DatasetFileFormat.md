@@ -49,3 +49,5 @@ In short: The file starts with the relation name, which is followed by the speci
     immediately following the category name. The default weight, if not
     specified, is 1. The weights are only used for the attribute that is
     selected to be the class attribute.
+
+<br><sub>Last edited: 2023-05-25 18:29:38</sub>

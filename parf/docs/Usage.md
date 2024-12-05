@@ -226,3 +226,5 @@ Generates a gnuplot script. The output of several other options is modified for 
 Specifies a terminal for gnuplot output. See gnuplot's set terminal command for details. If no terminal is selected, multi-window x11 is used, with a pause at the end.
 
 More examples of gnuplot use can be found in the [GnuPlotUsage.md](https://github.com/efurlanm/ml/blob/master/docs/GnuPlotUsage.md).
+
+<br><sub>Last edited: 2023-05-25 18:29:38</sub>
