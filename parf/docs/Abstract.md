@@ -11,3 +11,5 @@ RF and Random Forests are registered trademarks of Leo Breiman and Adele Cutler.
 PARF was developed in [Centre for Informatics and Computing](https://web.archive.org/web/20060925120144/http://www.irb.hr/hr/cir/) of Ruđer Bošković Institute, with the financial support of Ministry of Science, Technology and Sports, i-Project 2004-111.
 
 Contact: [Goran Topić](https://web.archive.org/web/20060925120144/http://www.irb.hr/en/home/amadan/)
+
+<br><sub>Last edited: 2023-05-25 18:29:38</sub>

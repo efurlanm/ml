@@ -1,8 +1,6 @@
 # My personal notes on Machine Learning and related topics
 
-*Last edited: 2024-04-23*
-
-This repo contains my collection of materials and random notes I take while researching and playing with Machine Learning (ML) and Artificial Neural Networks (NN). It includes topics such as numerical methods, differential calculus, artificial neural networks, libraries, implementations, materials that I ended up using during my research, and other random topics that I also found interesting. It is a work in progress and subject to constant change.
+This repository contains my collection of materials and random notes I make while researching Physics-Informed Neural Networks (PINN), Physics-Informed Machine Learning (PIML), numerical methods, differential calculus, artificial neural networks, libraries, implementations, and other random related topics. It is a work in progress and subject to constant change.
 
 ## Contents
 
@@ -45,7 +43,9 @@ The horovod directory contains some Notebooks with examples:
 <br>
 <table>
   <tr>
-    <td><img src="img/construction.gif"></td>
+    <td><img src="img/construction.svg"></td>
     <td>This repo is permanently under construction, so its content changes constantly.</td>
   </tr>
 </table>
+
+<br><sub>Last edited: 2025-07-27 15:04:55</sub>

@@ -13,3 +13,5 @@ This directory contains some material directly related to the [DeepXDE library](
 Comparison of different backends, [TensorFlow](https://www.tensorflow.org/), [PyTorch](https://pytorch.org/), and [Paddle](https://www.paddlepaddle.org.cn/en), for the [Poisson equation in L-shaped domain](https://deepxde.readthedocs.io/en/latest/demos/pinn_forward/poisson.lshape.html):
 
 - [poisson-tf-pt-pd.md](poisson-tf-pt-pd.md) 
+
+<br><sub>Last edited: 2024-12-01 18:04:28</sub>

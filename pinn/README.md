@@ -25,3 +25,5 @@
 
 - [Horovod](https://github.com/horovod/horovod) - a distributed deep learning training framework for TensorFlow, Keras, PyTorch, and Apache MXNet. Take a single-GPU training script and successfully scale it to train across many GPUs in parallel. Can run on a single-GPU, multiple-GPUs, or even multiple hosts without any further code changes. You can use both the MPI communication library and Gloo developed by Facebook.
 - [HorovodPINN](https://github.com/pescap/HorovodPINNs) - Data-based parallel acceleration for physics-informed neural networks (PINNs) via Horovod. Includes code based on Raissi's PINN.
+
+<br><sub>Last edited: 2023-10-24 17:25:41</sub>

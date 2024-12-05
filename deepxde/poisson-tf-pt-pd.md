@@ -23,3 +23,4 @@ Training times, first using the Adam optimizer, then retraining using L-BFGS to 
 | PT      | 395      | 311        |
 | PD      | 344      | 409        |
 
+<br><sub>Last edited: 2023-07-21 21:51:35</sub>

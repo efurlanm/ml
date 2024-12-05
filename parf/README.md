@@ -20,3 +20,5 @@ PARF is an MPI-enabled parallel random forest (RF) algorithm implemented in Fort
 * Viktor Bojović (2008). Parallel Random Forests – PARF http://veppar.irb.hr/index.php?option=com_content&task=view&id=16
 * Karolj Skala (2009). PARF - Parallel RF Algorithm https://translate.google.com/translate?sl=auto&tl=en&u=http://www.parf.irb.hr/
 * Google Code Archive (2008). PARF - Parallel Random Forest Algorithm https://code.google.com/archive/p/parf/
+
+<br><sub>Last edited: 2023-06-26 20:08:57</sub>
